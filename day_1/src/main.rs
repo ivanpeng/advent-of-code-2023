@@ -1,7 +1,7 @@
 use crate::dec01::{dec01_1, dec01_2};
 
-
 mod dec01;
+
 fn main() {
     let input = "dssmtmrkonedbbhdhjbf9hq
 2njsevenszzsfltconesixhsflpbpd
